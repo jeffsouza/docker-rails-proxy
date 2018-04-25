@@ -2,6 +2,10 @@
 
 Set a proxy with Nginx for a Rails app running on port 3000
 
+## What it includes?
+
+- Nginx (latest)
+
 ## Before Run
 
 Start a container with a Rails application listening on port 3000
